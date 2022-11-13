@@ -10,9 +10,9 @@ using namespace std;
 
 #define INPUT_FILE true
 
-#define NUM_TESTS 67
+#define NUM_TESTS 100
 
-#define NUM_TASKS 25
+#define NUM_TASKS 5
 #define PERIODS_IN_BUCKET false
 
 // Select k for (m,k) constraint
